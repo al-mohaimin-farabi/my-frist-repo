@@ -1,8 +1,8 @@
 p{
     color:blue;
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 h1,h2,h3 {
     color:chocolate;
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
